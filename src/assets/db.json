@@ -1,0 +1,14 @@
+{
+  "students": [
+    {
+      "id": "1c5e",
+      "name": "kiran",
+      "email": "jayeshranjane7378@gmail.com",
+      "inputAddress": "Katraj",
+      "inputAddress2": "khambavdi",
+      "inputCity": "Pune",
+      "inputState": "Gujrat",
+      "inputZip": "411041"
+    }
+  ]
+}
